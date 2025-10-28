@@ -21,3 +21,15 @@
  8. Find the average customer rating per vehile type 
  9. Calculate the total booking value of rides completed successfully
  10. List all incomplete ride along with the reason
+
+# PowerBI  Questions
+ 1. Ride volume over time
+ 2. Booking status breakdown
+ 3. Top 5 vehicle type by ride distance
+ 4. Average customer ratings by vehicle type
+ 5. Cancelled rides reason
+ 6. Revenue by payment method
+ 7. Top 5 customers by total booking value
+ 8. Ride distance distribution
+ 9. Driver ratings distribution
+ 10. Customer vs. Driver ratings 
