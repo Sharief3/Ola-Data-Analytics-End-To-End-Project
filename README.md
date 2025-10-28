@@ -86,3 +86,12 @@ The final phase involves transitioning the insights gathered from SQL into visua
 . This page also uses **DAX measures** to calculate the **Cancellation Rate** (Percentage of Canceled Bookings / Total Bookings * 100).
     *   **Ratings Page:** Displays the **Average Driver Ratings** and **Average Customer Ratings** segmented by specific vehicle types (like Prime Sedan or Prime SUV).
 4.  **Final Steps:** A date slicer is placed on relevant pages to allow users to dynamically filter the visualizations. Once completed, the dashboard can be shared or published.
+
+# Project Insights
+ When we look at the Ola Data Analytics End-to-End Project, the goal is to transform raw data into clear business intelligence.
+
+Here are the project's key insights, distilled into three simple lines:
+
+1.  **Business Focus and Data Foundation:** The project utilizes a large dataset of nearly **100,000 Ola booking records** (specifically, 99,956 records were imported) to find solutions for crucial business issues, such as **optimizing delivery time, analyzing fares, and reducing cancellation rates**.
+2.  **Actionable Metrics via SQL:** The analysis answers specific questions by generating critical numbers, including identifying **top five customers** who book the highest number of rides, calculating the **average ride distance for each vehicle type**, and determining the **total booking value of successfully completed rides**, which totaled approximately **34 million**.
+3.  **Visual Reporting for Decisions:** The workflow culminates in a segmented Power BI dashboard (covering sections like Overall, Revenue, and Cancellation) that visually reports key trends, such as **ride volume over time** and the calculated **cancellation rate** (found to be around 28%).
