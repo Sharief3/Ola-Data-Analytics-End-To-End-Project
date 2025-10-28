@@ -8,9 +8,9 @@
 ## Data Set Used
 <a href="https://app.powerbi.com/links/iNNMN3jznq?ctid=eb322777-d3cb-4cf3-8785-b55cf5ec11ce&pbi_source=linkShare">Data set</a>
 
-## The Setup
+# The Setup
  
-# SQL Questions
+## SQL Questions
  1. Retrieve all successful bookings
  2. Find the average  ride distance for each vehicle type
  3. Get the total number of cancelled ride by customers
@@ -22,7 +22,7 @@
  9. Calculate the total booking value of rides completed successfully
  10. List all incomplete ride along with the reason
 
-# PowerBI  Questions
+## PowerBI  Questions
  1. Ride volume over time
  2. Booking status breakdown
  3. Top 5 vehicle type by ride distance
