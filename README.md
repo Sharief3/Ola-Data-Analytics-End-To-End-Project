@@ -1,4 +1,4 @@
-# Ola-Data-Analytics-End-To-End-Project
+huh# Ola-Data-Analytics-End-To-End-Project
 ## Project Objective
    
 1.  **To analyze and solve crucial business challenges faced by ride-share companies** by utilizing a large dataset of Ola bookings, which encompasses 19 columns and imported nearly 100,000 records.
@@ -86,6 +86,10 @@ The final phase involves transitioning the insights gathered from SQL into visua
 . This page also uses **DAX measures** to calculate the **Cancellation Rate** (Percentage of Canceled Bookings / Total Bookings * 100).
     *   **Ratings Page:** Displays the **Average Driver Ratings** and **Average Customer Ratings** segmented by specific vehicle types (like Prime Sedan or Prime SUV).
 4.  **Final Steps:** A date slicer is placed on relevant pages to allow users to dynamically filter the visualizations. Once completed, the dashboard can be shared or published.
+
+## Dashboard
+<img width="1322" height="736" alt="Screenshot 2025-08-03 114556" src="https://github.com/user-attachments/assets/754f8dda-4563-4054-bced-7d68e1e6ad66" />
+
 
 # Project Insights
  When we look at the Ola Data Analytics End-to-End Project, the goal is to transform raw data into clear business intelligence.
