@@ -88,7 +88,8 @@ The final phase involves transitioning the insights gathered from SQL into visua
 4.  **Final Steps:** A date slicer is placed on relevant pages to allow users to dynamically filter the visualizations. Once completed, the dashboard can be shared or published.
 
 ## Dashboard
-![Uploading Screenshot 2025-10-24 064704.png…]
+<img width="1322" height="736" alt="<img width="1145" height="654" alt="Screenshot 2025-10-24 064704"
+" src="https://github.com/user-attachments/assets/754f8dda-4563-4054-bced-7d68e1e6ad66" />
 
 
 # Project Insights
