@@ -88,7 +88,8 @@ The final phase involves transitioning the insights gathered from SQL into visua
 4.  **Final Steps:** A date slicer is placed on relevant pages to allow users to dynamically filter the visualizations. Once completed, the dashboard can be shared or published.
 
 ## Dashboard
-Screenshot 2025-10-24 064704
+<img width="1145" height="654" alt="Screenshot 2025-10-24 064704" src="https://github.com/user-attachments/assets/3e25f3d9-bfee-4433-82e3-af608ea24282" />
+
 (https://github.com/Sharief3/Ola-Data-Analytics-End-To-End-Project/blob/main/Screenshot%202025-10-24%20064704.png)
 
 
