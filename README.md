@@ -89,7 +89,7 @@ The final phase involves transitioning the insights gathered from SQL into visua
 
 ## Dashboard
 "<img width= "132" height="736" alt="Screenshot 2025-10-24 064704.png"
-src= "
+src= "https://github.com/Sharief3/Ola-Data-Analytics-End-To-End-Project/blob/main/Screenshot%202025-10-24%20064704.png"/>
 
 
 # Project Insights
