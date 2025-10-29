@@ -90,8 +90,6 @@ The final phase involves transitioning the insights gathered from SQL into visua
 ## Dashboard
 <img width="1145" height="654" alt="Screenshot 2025-10-24 064704" src="https://github.com/user-attachments/assets/3e25f3d9-bfee-4433-82e3-af608ea24282" />
 
-(https://github.com/Sharief3/Ola-Data-Analytics-End-To-End-Project/blob/main/Screenshot%202025-10-24%20064704.png)
-
 
 # Project Insights
  When we look at the Ola Data Analytics End-to-End Project, the goal is to transform raw data into clear business intelligence.
