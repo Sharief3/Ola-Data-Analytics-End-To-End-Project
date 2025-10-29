@@ -6,7 +6,7 @@
 3.  **To execute a full end-to-end data analytics workflow,** beginning with essential data cleaning, employing SQL to answer specific business questions, and concluding with the creation of a comprehensive Power BI dashboard for effective visualization and reporting.
 
 ## Data Set Used
-<a href="https://app.powerbi.com/links/iNNMN3jznq?ctid=eb322777-d3cb-4cf3-8785-b55cf5ec11ce&pbi_source=linkShare">Data set</a>
+<a href="https://app.powerbi.com/groups/me/reports/bbb2270d-ba0f-443a-bed8-2f3aa0d653d3/0e0f04871f73e97786d4?experience-power-bi ">Data set</a>
 
 # The Setup
  
